@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+for creating header we used ng g c components/partials/header.
+
+Changed style sheet formats for fonts so to globalize it we used the global styles.css.
+
